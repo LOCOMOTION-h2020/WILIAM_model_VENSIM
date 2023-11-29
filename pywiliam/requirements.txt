@@ -1,0 +1,8 @@
+dacite
+matplotlib
+pysd>=3.10
+tk
+netCDF4
+dask[array]
+dask[diagnostics]
+dask[distributed]
