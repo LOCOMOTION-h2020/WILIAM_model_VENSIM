@@ -8,4 +8,4 @@ For those users not having a full DSS Vensim licence, a Packaged model is also r
 
 Check the User Guide (WILIAM_User_Guide.pdf) for practical issues about how to run the model.
 
-For any query or suggestion contact us at: info.wiliam [@] uva.es
+Report issues through the [github list of issues](https://github.com/LOCOMOTION-h2020/WILIAM_model_VENSIM/issues). For any other query or suggestion contact us at: info.wiliam [@] uva.es
