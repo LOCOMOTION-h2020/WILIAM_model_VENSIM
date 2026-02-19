@@ -1,6 +1,6 @@
 # WILIAM (Vensim)
 
-This repository contains the WILIAM model in the VENSIM version. This model is one of the results from LOCOMOTION project, and its development continues after the project.
+This repository contains the WILIAM model ("Within Limits Integrated Assessment Model") in the VENSIM version. This model is one of the results from LOCOMOTION project, and its development continues after the project.
 
 Until now, all WILIAM releases versions are BETA versions. This means that these versions are not a fully validated model, and although it is possible to obtain reliable partial results for some dimensions, features and interlinks, it is not possible to use the whole model with confidence. Hence, potential model users are advised to contact the developers for detailed guidance on using the model for their specific research questions.
 
